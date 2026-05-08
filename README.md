@@ -1,4 +1,4 @@
-# Neural Network & Deep Learning Assignment 1
+# Neural Network & Deep Learning
 
 This project implements linear regression and neural network training concepts from scratch using Python and NumPy.
 
